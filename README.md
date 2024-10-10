@@ -4,7 +4,7 @@ Project Objective
 The stakeholders of Superstore wanted to get a more detailed snapshot of how the store was performing. 
 
 Dataset used 
-![Superstore analysis](https://github.com/user-attachments/assets/d224260f-6261-43fa-ac62-3dc5f67606d4)
+
 
 Questions
 1.	Top Products: What are the top 5 selling products in terms of revenue and units sold?
@@ -24,8 +24,9 @@ Process
 2.	Ensure all data types, formats, and values are consistent.
 3.	Create necessary measures, KPI cards, and data visualizations.
 4.	Design dashboard and add relevant slicers and tooltips to make it more dynamic.
-Dashboard
 
+Dashboard
+![Superstore analysis](https://github.com/user-attachments/assets/d224260f-6261-43fa-ac62-3dc5f67606d4)
 Project Insights
 •	The leading product is Paper, with over 4,000 units sold, followed by Pens, Binders, and Telephones. These products are in high demand, indicating a strong preference for office supplies.
 •	The business has generated $2M in total revenue, with Office Machines being the top-performing product. However, there is an opportunity to optimize product offerings, as lower-selling products like Appliances could either be promoted more effectively or phased out to focus on top performers.
