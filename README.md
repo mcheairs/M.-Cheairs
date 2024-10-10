@@ -4,6 +4,7 @@ Project Objective
 The stakeholders of Superstore wanted to get a more detailed snapshot of how the store was performing. 
 
 Dataset used 
+![Superstore analysis](https://github.com/user-attachments/assets/d224260f-6261-43fa-ac62-3dc5f67606d4)
 
 Questions
 1.	Top Products: What are the top 5 selling products in terms of revenue and units sold?
